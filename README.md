@@ -1,8 +1,8 @@
 ### Olá! sou Gabriel Henrique 👋
 
 - 🔭 Atualmente desempregado
-- 🌱 Aprendendo Docker, Phyton, NoSQL 
-- 🤔 Participando nos forums DevSuperior CollabCode 
+- 🌱 Aprendendo Docker, Phyton, NoSQL, Java dentre outras 
+- 📝Participando nos forums DevSuperior e CollabCode (https://discord.gg/RMx8jKMe)
 - 💬 Apaixonado por games e ficção científica
 - 📫 Email para contato: gabriel.private1998@gmail.com
 - ⚡ Frase que define a minha persistência: "Se você cometeu algum erro, isso significa tempo de aprender e não de desistir." -Chico Xavier
